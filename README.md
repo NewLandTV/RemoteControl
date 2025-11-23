@@ -6,8 +6,6 @@ Remote control basic project.
 
 [![Development Note p.265](https://img.youtube.com/vi/sqm55aJWCCQ/0.jpg)](https://www.youtube.com/watch?v=sqm55aJWCCQ)
 
-[![Development Note p.266](https://img.youtube.com/vi/1Kk3azj3-dQ/0.jpg)](https://www.youtube.com/watch?v=1Kk3azj3-dQ)
-
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
